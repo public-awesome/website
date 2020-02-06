@@ -2,7 +2,6 @@ baseurl = "https://rocket.space" # Controls base URL sitewide
 languageCode = "en-US" # Controls site language
 title = "Rocket Space" # Homepage title and page title suffix
 paginate = 11 # Number of posts to show before paginating
-copyright = "Copyright &copy; Copyright Owner. Licensed under <a target=\"_blank\" rel=\"external noopener license\" href=\"https://creativecommons.org/licenses/by-nd/4.0/\">CC-BY-ND-4.0</a>." # Optional, remove to suppress copyright notices
 
 # Controls default theme and theme components
 theme = [
@@ -24,11 +23,11 @@ sectionPagesMenu = "main" # Enable menu system for lazy bloggers
 
 [params]
   description = "" # Suggested, controls default description meta
-  author = "" # Optional, controls author name display on posts
+  author = "Shane Vitarana" # Optional, controls author name display on posts
   hide_author = false # Optional, set true to hide author name on posts
   disable_csp = false # Optional, set true to disable content security policy
   images = [
-    "https://source.unsplash.com/collection/983219/2000x1322"
+    "https://images.unsplash.com/photo-1457365050282-c53d772ef8b2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2250&q=80"
   ] # Suggested, controls default Open Graph images
 
 [params.layout.menu.main]
