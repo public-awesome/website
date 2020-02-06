@@ -9,14 +9,15 @@ draft = false
   date = "2020"
 +++
 
-```
+<div id="logo">
+<pre>
  ____            _        _     ____                       
 |  _ \ ___   ___| | _____| |_  / ___| _ __   __ _  ___ ___ 
 | |_) / _ \ / __| |/ / _ \ __| \___ \| '_ \ / _` |/ __/ _ \
 |  _ < (_) | (__|   <  __/ |_   ___) | |_) | (_| | (_|  __/
 |_| \_\___/ \___|_|\_\___|\__| |____/| .__/ \__,_|\___\___|
                                      |_|                   
-```
+</pre>
 
 {{< hackcss-form id="subscribe" action="https://space.us4.list-manage.com/subscribe/post" name="email" method="POST" >}}
   <input type="hidden" name="u" value="1fb123e8f8927617e2f71cfd2">
@@ -28,3 +29,5 @@ draft = false
 {{< /hackcss-form >}}
 <br />
 {{< hackcss-button form="subscribe" text="Submit" type="primary" isghost="true" />}}
+
+</div>
