@@ -9,6 +9,9 @@ draft = false
   date = "2020"
 +++
 
+<div id='stars'></div>
+<div id='stars2'></div>
+
 <br />
 {{< hackcss-alert type="info" >}}
   {{< hackcss-form id="subscribe" action="https://space.us4.list-manage.com/subscribe/post" name="email" method="POST" >}}
