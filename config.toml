@@ -32,10 +32,10 @@ sectionPagesMenu = "main" # Enable menu system for lazy bloggers
   ] # Suggested, controls default Open Graph images
 
 [params.layout.menu.main]
-  hidden = true # Optional, set false or remove to show section menu
+  hidden = false # Optional, set false or remove to show section menu
 
 [params.layout.footer]
-  hidden = true # Optional, set true to hide footer
+  hidden = false # Optional, set true to hide footer
 
 [params.modules.fractal_forest]
   enabled = true # Optional, set false to disable module
