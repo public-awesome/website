@@ -18,7 +18,7 @@ draft = false
                                      |_|                   
 ```
 
-{{< hackcss-form name="email" method="POST" data-netlify="true" >}}
+{{< hackcss-form name="email" method="POST" netlify >}}
   {{< hackcss-label >}}
     {{< hackcss-helpblock text="Subscribe for updates:" />}}
     {{< hackcss-textinput name="email" required="true" placeholder="Please enter your email..." >}}
