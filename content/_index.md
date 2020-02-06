@@ -18,8 +18,8 @@ draft = false
                                      |_|                   
 ```
 
-{{< hackcss-form id="email" method="POST" target="_blank" data-netlify="true">}}
+{{< hackcss-form id="subscribe" name="email" method="POST" target="_blank" data-netlify="true">}}
 {{< hackcss-formgroup >}}
   {{< hackcss-label for="query" text="Subscribe:" />}}
-  {{< hackcss-textinput id="query" type="search" placeholder="email@example.com" name="s" form="email" >}}
+  {{< hackcss-textinput id="query" type="search" placeholder="email@example.com" name="s" form="subscribe" >}}
 {{< /hackcss-formgroup >}}
