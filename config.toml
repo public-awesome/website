@@ -1,6 +1,6 @@
-baseurl = "https://domain.example" # Controls base URL sitewide
+baseurl = "https://rocket.space" # Controls base URL sitewide
 languageCode = "en-US" # Controls site language
-title = "After Dark" # Homepage title and page title suffix
+title = "Rocket Space" # Homepage title and page title suffix
 paginate = 11 # Number of posts to show before paginating
 copyright = "Copyright &copy; Copyright Owner. Licensed under <a target=\"_blank\" rel=\"external noopener license\" href=\"https://creativecommons.org/licenses/by-nd/4.0/\">CC-BY-ND-4.0</a>." # Optional, remove to suppress copyright notices
 
@@ -35,7 +35,7 @@ sectionPagesMenu = "main" # Enable menu system for lazy bloggers
   hidden = true # Optional, set false or remove to show section menu
 
 [params.layout.footer]
-  hidden = false # Optional, set true to hide footer
+  hidden = true # Optional, set true to hide footer
 
 [params.modules.fractal_forest]
   enabled = true # Optional, set false to disable module
