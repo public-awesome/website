@@ -18,8 +18,9 @@ draft = false
                                      |_|                   
 ```
 
-{{< hackcss-form id="subscribe" name="email" method="POST" target="_blank" data-netlify="true">}}
-{{< hackcss-formgroup >}}
-  {{< hackcss-label for="query" text="Subscribe:" />}}
-  {{< hackcss-textinput id="query" type="search" placeholder="email@example.com" name="s" form="subscribe" >}}
-{{< /hackcss-formgroup >}}
+{{< hackcss-form name="email" method="POST" data-netlify="true" >}}
+  {{< hackcss-label >}}
+    {{< hackcss-helpblock text="Subscribe for updates:" />}}
+    {{< hackcss-textinput name="email" required="true" placeholder="Please enter your email..." >}}
+  {{< /hackcss-label >}}
+{{< /hackcss-form >}}
