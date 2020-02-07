@@ -1,11 +1,11 @@
 +++
-title = "Rocket Space"
+title = "Rocket Protocol"
 subtitle = "🚀🚀🚀"
 date = 2020-02-06T00:13:54-08:00
-description = "Rocket Space is a network of decentralized social networks."
+description = "Rocket Protocol is a protocol for decentralized social networks."
 draft = false
 [[copyright]]
-  owner = "Rocket Space"
+  owner = "Rocket Protocol"
   date = "2020"
 +++
 

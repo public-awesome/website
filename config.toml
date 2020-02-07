@@ -1,6 +1,6 @@
 baseurl = "https://rocket.space" # Controls base URL sitewide
 languageCode = "en-US" # Controls site language
-title = "Rocket Space" # Homepage title and page title suffix
+title = "Rocket Protocol" # Homepage title and page title suffix
 paginate = 11 # Number of posts to show before paginating
 
 # Controls default theme and theme components
