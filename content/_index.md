@@ -1,8 +1,8 @@
 +++
-title = "Rocket Protocol"
-subtitle = "🚀🚀🚀"
+title = "🚀🚀🚀 Rocket Protocol"
+subtitle = "The protocol for decentralized, incentivized social networks."
 date = 2020-02-06T00:13:54-08:00
-description = "Rocket Protocol is a protocol for decentralized social networks."
+description = "The protocol for decentralized, incentivized social networks."
 draft = false
 [[copyright]]
   owner = "Rocket Protocol"
