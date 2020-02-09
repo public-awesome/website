@@ -44,6 +44,12 @@ html {
   overflow: hidden;
 }
 
+#starfield {
+  width: 100%;
+  position: absolute;
+  right: 0;
+}
+
 #stars {
   width: 1px;
   height: 1px;
