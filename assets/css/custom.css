@@ -44,6 +44,48 @@ html {
   overflow: hidden;
 }
 
+.ascii-title {
+  font-size: 10.5px;
+  line-height: 1;
+  overflow: hidden;
+}
+
+.mobile-ascii-title {
+  display: none; 
+}
+
+@media only screen 
+and (min-device-width : 768px) 
+and (max-device-width : 1024px)  {
+    .ascii-title {
+        font-size: 10.1px;
+        line-height: 1;
+        overflow: hidden;        
+    }
+}
+
+@media screen and (max-width: 450px) {
+    .mobile-ascii-title {
+        font-size: 8px;
+        line-height: 1;
+        display: block;
+    }
+  .ascii-title {
+    display: none;
+  }
+}
+
+@media screen and (max-width: 374px) {
+    .mobile-ascii-title {
+        font-size: 5.5px;
+        line-height: 1;
+        display: block;
+    }
+    .ascii-title {
+        display: none;
+    }
+}
+
 #starfield {
   width: 100%;
   position: absolute;
