@@ -1,6 +1,6 @@
 +++
-title = "Rocket Protocol"
-subtitle = "🚀🚀🚀"
+title = "🚀🚀🚀 Rocket Protocol"
+subtitle = "The protocol for next-generation, incentivized social networks."
 date = 2020-02-06T00:13:54-08:00
 description = "Rocket Protocol is a protocol for decentralized social networks."
 draft = false
