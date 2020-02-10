@@ -1,4 +1,4 @@
-baseurl = "https://rocket.space" # Controls base URL sitewide
+baseurl = "https://rocketprotocol.io/" # Controls base URL sitewide
 languageCode = "en-US" # Controls site language
 title = "Rocket Protocol" # Homepage title and page title suffix
 paginate = 11 # Number of posts to show before paginating
