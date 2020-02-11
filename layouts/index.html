@@ -41,6 +41,18 @@
     <div class="homepage-content">
         <!-- Note that the content for index.html, as a sort of list page, will pull from content/_index.md -->
         {{.Content}}
+
+        <div class="alert alert-info">
+          <p>Subscribe for updates</p>
+          <br />
+          <form class="form" id="subscription" name="subscription" method="POST" data-netlify="true">
+            <fieldset class="form-group">
+              <label for="email">Email:</label>
+              <input id="email" type="email" name="email" placeholder="" class="form-control">
+            </fieldset>
+          </form>
+          <button type="submit" form="subscription" class="btn btn-info btn-ghost">Submit</button>
+        </div>
     </div>
     <div>
     <!-- Note that .Pages is the same as .Site.RegularPages on the homepage template. -->
