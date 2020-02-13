@@ -48,6 +48,7 @@ html {
   font-size: 10.5px;
   line-height: 1;
   overflow: hidden;
+  display: inline-block;
 }
 
 .mobile-ascii-title {
