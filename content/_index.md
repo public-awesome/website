@@ -19,3 +19,4 @@ Rocket Protocol is built on the {{< external href="https://cosmos.network/ibc/" 
 
 <br />
 
+[Team](/team) | {{< external href="https://github.com/rocket-protocol" text="Github" />}} | {{< external href="https://twitter.com/rocketprotocol" text="Twitter" />}}
