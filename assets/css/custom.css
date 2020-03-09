@@ -40,8 +40,6 @@ a[itemprop="url"]:hover {
 
 html {
   height: 100%;
-  /* background: radial-gradient(ellipse at bottom, #1b2735 0%, #090a0f 100%); */
-  overflow: hidden;
 }
 
 .ascii-title {
@@ -103,7 +101,7 @@ and (max-device-width : 1024px)  {
 #stars:after {
   content: " ";
   position: absolute;
-  top: 2000px;
+  top: 1000px;
   width: 1px;
   height: 1px;
   background: transparent;
@@ -120,7 +118,7 @@ and (max-device-width : 1024px)  {
 #stars2:after {
   content: " ";
   position: absolute;
-  top: 2000px;
+  top: 1000px;
   width: 2px;
   height: 2px;
   background: transparent;
@@ -137,7 +135,7 @@ and (max-device-width : 1024px)  {
 #stars3:after {
   content: " ";
   position: absolute;
-  top: 2000px;
+  top: 1000px;
   width: 3px;
   height: 3px;
   background: transparent;
