@@ -1,7 +1,7 @@
 +++
 title = "Team"
 date = 2020-03-08T23:24:36-07:00
-description = "Infrastructure and a protocol for building decentralized, incentivized social networks."
+description = "Infrastructure and protocol for building decentralized, incentivized social networks."
 draft = false
 [[copyright]]
   owner = "Rocket Protocol"
