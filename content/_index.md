@@ -1,8 +1,8 @@
 +++
 title = "Home"
-subtitle = "Infrastructure and a protocol for building decentralized, incentivized social networks."
+subtitle = "Infrastructure and protocol for building decentralized, incentivized social networks."
 date = 2020-02-06T00:13:54-08:00
-description = "Infrastructure and a protocol for building decentralized, incentivized social networks."
+description = "Infrastructure and protocol for building decentralized, incentivized social networks."
 draft = false
 [[copyright]]
   owner = "Rocket Protocol"
@@ -19,3 +19,4 @@ Rocket Protocol is built on the {{< external href="https://cosmos.network/ibc/" 
 
 <br />
 
+[Team](/team) | {{< external href="https://github.com/rocket-protocol" text="Github" />}} | {{< external href="https://twitter.com/rocketprotocol" text="Twitter" />}}
