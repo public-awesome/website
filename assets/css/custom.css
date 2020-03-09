@@ -53,6 +53,15 @@ html {
   display: none; 
 }
 
+img.center {
+  margin-bottom: 10px;
+  max-width: 100%;
+  max-height: 100%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 @media only screen 
 and (min-device-width : 768px) 
 and (max-device-width : 1024px)  {
