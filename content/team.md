@@ -65,3 +65,14 @@ draft = false
     {{< /hackcss-cell >}}
   {{< /hackcss-grid >}}
 {{< /hackcss-card >}}
+<br />
+{{< hackcss-card header="Jack Zampolin" >}}
+  {{< hackcss-grid class="-around">}}
+    {{< hackcss-cell class="-3of12" >}}
+      <img class="center" src="/jack.png" width="216" />
+    {{< /hackcss-cell >}}
+    {{< hackcss-cell class="-8of12" >}}
+      Jack is a product strategist and developer relations advisor to several Proof-of-Stake blockchain projects. Fresh off of shipping the Cosmos Hub, Jack is currently focused on realizing IBC and advancing projects in the Cosmos ecosystem.
+    {{< /hackcss-cell >}}
+  {{< /hackcss-grid >}}
+{{< /hackcss-card >}}
