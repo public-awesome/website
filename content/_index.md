@@ -9,13 +9,7 @@ draft = false
   date = "2020"
 +++
 
-Rocket Protocol enables a new generation of social networks that are more aligned with the interests of the communities they create.
-
-At the center of Rocket Protocol is Rocket Hub, a layer 1 proof-of-stake blockchain that manages identity, social graphs, and user data in a secure and trustless manner.
-
-Many social networks, known as Rocket Zones, connect to Rocket Hub. Each Zone is a different type of social network or community, with it's own values, incentive mechanisms, content moderation practices, and governance.
-
-Rocket Protocol is built on the {{< external href="https://cosmos.network/ibc/" text="Inter-Blockchain Communication" />}} standard, enabling social networks to integrate with DeFi and the staking economy.
+Rocket Protocol is building infrastructure for next-generation social networks that enables earning cryptocurrency for content.
 
 <br />
 
