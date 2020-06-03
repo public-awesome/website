@@ -9,7 +9,7 @@ draft = false
   date = "2020"
 +++
 
-Rocket Protocol is building infrastructure for next-generation social networks that are decentralized and censorship-resistant, while enabling creators to earn cryptocurrency for content.
+Rocket Protocol is building decentralized and censorship-resistant social networks that enable creators to earn cryptocurrency for creating and curating content.
 
 <br />
 
