@@ -9,7 +9,7 @@ draft = false
   date = "2020"
 +++
 
-Rocket Protocol is building decentralized, self-governed social networks that enable creators to earn cryptocurrency for their content.
+Rocket Protocol is building decentralized, self-governed social networks that enable creators to earn cryptocurrency.
 
 <br />
 
