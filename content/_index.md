@@ -13,4 +13,4 @@ Public Awesome is building decentralized, self-governed social networks that ena
 
 <br />
 
-[Team](/team) | {{< external href="https://github.com/rocket-protocol" text="Github" />}} | {{< external href="https://twitter.com/rocketprotocol" text="Twitter" />}}
+[Team](/team) | {{< external href="https://github.com/public-awesome" text="Github" />}} | {{< external href="https://twitter.com/rocketprotocol" text="Twitter" />}}
