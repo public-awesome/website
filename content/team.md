@@ -4,7 +4,7 @@ date = 2020-03-08T23:24:36-07:00
 description = "Infrastructure and protocol for building decentralized, incentivized social networks."
 draft = false
 [[copyright]]
-  owner = "Rocket Protocol"
+  owner = "Public Awesome"
   date = "2020"
 +++
 
