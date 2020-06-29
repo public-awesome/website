@@ -9,7 +9,7 @@ draft = false
   date = "2020"
 +++
 
-Public Awesome is building decentralized, self-governed social networks that enable creators to earn cryptocurrency.
+Building {{< external href="https://github.com/public-awesome/stakebird" text="Stakebird" />}}, a {{< external href="https://en.wikipedia.org/wiki/Decentralized_autonomous_organization" text="decentralized autonomous organization (DAO)" />}} for content curation.
 
 <br />
 
