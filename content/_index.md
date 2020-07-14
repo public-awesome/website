@@ -13,4 +13,4 @@ Building {{< external href="https://github.com/public-awesome/stakebird" text="S
 
 <br />
 
-[Team](/team) | {{< external href="https://github.com/public-awesome" text="Github" />}} | {{< external href="https://twitter.com/rocketprotocol" text="Twitter" />}}
+[Team](/team) | {{< external href="https://github.com/public-awesome" text="Github" />}} | {{< external href="https://twitter.com/publicawesome_" text="Twitter" />}}
