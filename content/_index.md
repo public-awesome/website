@@ -11,6 +11,9 @@ draft = false
 
 Building {{< external href="https://github.com/public-awesome/stakebird" text="Stakebird" />}}, a {{< external href="https://en.wikipedia.org/wiki/Decentralized_autonomous_organization" text="decentralized autonomous organization (DAO)" />}} for content curation.
 
-<br />
+Team: {{< external href="https://twitter.com/shanev" text="@shanev" />}} | {{< external href="https://twitter.com/JakeHartnell" text="@JakeHartnell" />}} | {{< external href="https://twitter.com/mohitmamoria/" text="@mohitmamoria" />}} | {{< external href="https://twitter.com/jhernandezb_" text="@jhernandezb_" />}}
 
-[Team](/team) | {{< external href="https://github.com/public-awesome" text="Github" />}} | {{< external href="https://twitter.com/publicawesome_" text="Twitter" />}}
+Support Staff: {{< external href="https://twitter.com/AFDudley0" text="@AFDudley0" />}} | {{< external href="https://twitter.com/fennie_wang" text="@fennie_wang" />}} | {{< external href="https://twitter.com/jack_zampolin" text="@jack_zampolin" />}}
+
+
+<br />
