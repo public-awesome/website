@@ -1,8 +1,8 @@
 +++
 title = "Home"
-subtitle = "Infrastructure and protocol for building decentralized, incentivized social networks."
+subtitle = "Building Stakebird, a content curation DAO."
 date = 2020-02-06T00:13:54-08:00
-description = "Infrastructure and protocol for building decentralized, incentivized social networks."
+description = "Building Stakebird, a content curation DAO."
 draft = false
 [[copyright]]
   owner = "Public Awesome"
