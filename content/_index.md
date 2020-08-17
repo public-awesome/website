@@ -1,5 +1,5 @@
 +++
-title = "Home"
+title = "Public Awesome"
 subtitle = "Building Stakebird, a content curation DAO."
 date = 2020-02-06T00:13:54-08:00
 description = "Building Stakebird, a content curation DAO."
