@@ -13,7 +13,7 @@ Building {{< external href="https://github.com/public-awesome/stakebird" text="S
 
 Team: {{< external href="https://twitter.com/shanev" text="@shanev" />}} | {{< external href="https://twitter.com/JakeHartnell" text="@JakeHartnell" />}} | {{< external href="https://twitter.com/mohitmamoria/" text="@mohitmamoria" />}} | {{< external href="https://twitter.com/jhernandezb_" text="@jhernandezb_" />}}
 
-Support Staff: {{< external href="https://twitter.com/AFDudley0" text="@AFDudley0" />}} | {{< external href="https://twitter.com/fennie_wang" text="@fennie_wang" />}} | {{< external href="https://twitter.com/jack_zampolin" text="@jack_zampolin" />}}
+Support Staff: {{< external href="https://twitter.com/AFDudley0" text="@AFDudley0" />}} | {{< external href="https://twitter.com/fennie_wang" text="@fennie_wang" />}} | {{< external href="https://twitter.com/jack_zampolin" text="@jack_zampolin" />}} | {{< external href="https://twitter.com/cjremus" text="@cjremus" />}}
 
 
 <br />
