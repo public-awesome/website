@@ -9,7 +9,7 @@ draft = false
   date = "2020"
 +++
 
-Building {{< external href="https://github.com/public-awesome/stakebird" text="Stakebird" />}}, a content curation DAO based on incentivized quadratic voting. Coming to a mainnet near you in Q4 2020.
+Building {{< external href="https://github.com/public-awesome/stakebird" text="Stakebird" />}}, a content curation network based on incentivized quadratic voting.
 
 Team: {{< external href="https://twitter.com/shanev" text="@shanev" />}} | {{< external href="https://twitter.com/JakeHartnell" text="@JakeHartnell" />}} | {{< external href="https://twitter.com/mohitmamoria/" text="@mohitmamoria" />}} | {{< external href="https://twitter.com/jhernandezb_" text="@jhernandezb_" />}}
 
