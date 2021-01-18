@@ -1,15 +1,15 @@
 +++
 title = "Public Awesome"
-subtitle = "Building Stakebird, a content curation DAO."
+subtitle = "Building Stargaze, a content curation network."
 date = 2020-02-06T00:13:54-08:00
-description = "Building Stakebird, a content curation DAO."
+description = "Building Stargaze, a content curation network."
 draft = false
 [[copyright]]
   owner = "Public Awesome"
   date = "2020"
 +++
 
-Building {{< external href="https://github.com/public-awesome/stakebird" text="Stakebird" />}}, a content curation network based on incentivized quadratic voting.
+Building {{< external href="http://stargaze.fi" text="Stargaze" />}}, a content curation network based on incentivized quadratic voting.
 
 Team: {{< external href="https://twitter.com/shanev" text="@shanev" />}} | {{< external href="https://twitter.com/JakeHartnell" text="@JakeHartnell" />}} | {{< external href="https://twitter.com/jhernandezb_" text="@jhernandezb_" />}}
 
