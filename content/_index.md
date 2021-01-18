@@ -9,7 +9,7 @@ draft = false
   date = "2020"
 +++
 
-Building {{< external href="http://stargaze.fi" text="Stargaze" />}}, a content curation network based on incentivized quadratic voting.
+Building {{< external href="http://stargaze.fi" text="Stargaze" />}} (formerly Stakebird), a content curation network based on incentivized quadratic voting.
 
 Team: {{< external href="https://twitter.com/shanev" text="@shanev" />}} | {{< external href="https://twitter.com/JakeHartnell" text="@JakeHartnell" />}} | {{< external href="https://twitter.com/jhernandezb_" text="@jhernandezb_" />}}
 
