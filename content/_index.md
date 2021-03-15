@@ -13,7 +13,7 @@ Building {{< external href="http://stargaze.fi" text="Stargaze" />}} (formerly S
 
 Team: {{< external href="https://twitter.com/shan3v" text="@shan3v" />}} | {{< external href="https://twitter.com/JakeHartnell" text="@JakeHartnell" />}} | {{< external href="https://twitter.com/jhernandezb_" text="@jhernandezb_" />}}
 
-Support Staff: {{< external href="https://twitter.com/AFDudley0" text="@AFDudley0" />}} | {{< external href="https://twitter.com/fennie_wang" text="@fennie_wang" />}} | {{< external href="https://twitter.com/jack_zampolin" text="@jack_zampolin" />}} | {{< external href="https://twitter.com/cjremus" text="@cjremus" />}} | {{< external href="https://twitter.com/mohitmamoria/" text="@mohitmamoria" />}}
+Advisors: {{< external href="https://twitter.com/AFDudley0" text="@AFDudley0" />}} | {{< external href="https://twitter.com/fennie_wang" text="@fennie_wang" />}} | {{< external href="https://twitter.com/jack_zampolin" text="@jack_zampolin" />}} | {{< external href="https://twitter.com/cjremus" text="@cjremus" />}} | {{< external href="https://twitter.com/mohitmamoria/" text="@mohitmamoria" />}} | {{< external href="https://www.linkedin.com/in/taariq/" text="@taariq" />}}
 
 
 <br />
