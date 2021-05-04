@@ -9,7 +9,7 @@ draft = false
   date = "2020"
 +++
 
-Building {{< external href="http://stargaze.fi" text="Stargaze" />}} (formerly Stakebird), a content curation network based on incentivized quadratic voting.
+Building {{< external href="http://stargaze.fi" text="Stargaze" />}} (formerly Stakebird), a decentralized social protocol that enables content creators and curators to earn Universal Creator Income (UCI), mint NFTs, and issue creator coins.
 
 Team: {{< external href="https://twitter.com/shan3v" text="@shan3v" />}} | {{< external href="https://twitter.com/JakeHartnell" text="@JakeHartnell" />}} | {{< external href="https://twitter.com/jhernandezb_" text="@jhernandezb_" />}}
 
