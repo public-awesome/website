@@ -1,13 +1,14 @@
 {{ define "main" }}
-<div id='starfield'>
-  <div id='stars'></div>
-  <div id='stars2'></div>
-  <div id='stars3'></div>
+<div id="starfield">
+  <div id="stars"></div>
+  <div id="stars2"></div>
+  <div id="stars3"></div>
 </div>
 
 <main aria-role="main">
-    <header class="homepage-header">
-        <pre class="ascii-title">          
+  <header class="homepage-header">
+    <pre class="ascii-title">
+          
 ██████╗ ██╗   ██╗██████╗ ██╗     ██╗ ██████╗     █████╗ ██╗    ██╗███████╗███████╗ ██████╗ ███╗   ███╗███████╗
 ██╔══██╗██║   ██║██╔══██╗██║     ██║██╔════╝    ██╔══██╗██║    ██║██╔════╝██╔════╝██╔═══██╗████╗ ████║██╔════╝
 ██████╔╝██║   ██║██████╔╝██║     ██║██║         ███████║██║ █╗ ██║█████╗  ███████╗██║   ██║██╔████╔██║█████╗  
@@ -15,8 +16,9 @@
 ██║     ╚██████╔╝██████╔╝███████╗██║╚██████╗    ██║  ██║╚███╔███╔╝███████╗███████║╚██████╔╝██║ ╚═╝ ██║███████╗
 ╚═╝      ╚═════╝ ╚═════╝ ╚══════╝╚═╝ ╚═════╝    ╚═╝  ╚═╝ ╚══╝╚══╝ ╚══════╝╚══════╝ ╚═════╝ ╚═╝     ╚═╝╚══════╝
 
-        </pre>
-        <pre class="mobile-ascii-title">
+        </pre
+    >
+    <pre class="mobile-ascii-title">
 ██████╗ ██╗   ██╗██████╗ ██╗     ██╗ ██████╗
 ██╔══██╗██║   ██║██╔══██╗██║     ██║██╔════╝
 ██████╔╝██║   ██║██████╔╝██║     ██║██║     
@@ -31,30 +33,66 @@
 ██╔══██║██║███╗██║██╔══╝  ╚════██║██║   ██║██║╚██╔╝██║██╔══╝  
 ██║  ██║╚███╔███╔╝███████╗███████║╚██████╔╝██║ ╚═╝ ██║███████╗
 ╚═╝  ╚═╝ ╚══╝╚══╝ ╚══════╝╚══════╝ ╚═════╝ ╚═╝     ╚═╝╚══════╝
-        </pre>
-    </header>
-    <div class="homepage-content">
-        <!-- Note that the content for index.html, as a sort of list page, will pull from content/_index.md -->
-        {{.Content}}
+        </pre
+    >
+  </header>
+  <div class="homepage-content">
+    <!-- Note that the content for index.html, as a sort of list page, will pull from content/_index.md -->
+    {{.Content}}
 
-        <div class="alert alert-info">
-          <p>Subscribe for updates</p>
-          <br />
-          <form class="form" id="subscription" name="subscription" method="POST" data-netlify="true">
-            <fieldset class="form-group">
-              <label for="email">Email:</label>
-              <input id="email" type="email" name="email" placeholder="" class="form-control">
-            </fieldset>
-          </form>
-          <button type="submit" form="subscription" class="btn btn-info btn-ghost">Submit</button>
-        </div>
+    <div class="alert alert-info">
+      <p>Subscribe for updates</p>
+      <br />
+      <form
+        class="form"
+        id="subscription"
+        name="subscription"
+        method="POST"
+        data-netlify="true"
+      >
+        <fieldset class="form-group">
+          <label for="email">Email:</label>
+          <input
+            id="email"
+            type="email"
+            name="email"
+            placeholder=""
+            class="form-control"
+          />
+        </fieldset>
+      </form>
+      <button type="submit" form="subscription" class="btn btn-info btn-ghost">
+        Submit
+      </button>
     </div>
-    <div>
+  </div>
+  <div>
     <!-- Note that .Pages is the same as .Site.RegularPages on the homepage template. -->
-    {{ range first 10 .Pages }}
-        {{ .Render "summary"}}
-    {{ end }}
-    </div>
-    <a  target="_blank" rel="external noopener" href="https://docs.stargaze.fi">Litepaper</a> | <a  target="_blank" rel="external noopener" href="https://github.com/public-awesome">Github</a> | <a  target="_blank" rel="external noopener" href="https://twitter.com/publicawesome_">Twitter</a> | <a  target="_blank" rel="external noopener" href="https://discord.gg/QeJWCrE">Discord</a> | <a  target="_blank" rel="external noopener" href="https://medium.com/stargaze-protocol">Medium</a>
+    {{ range first 10 .Pages }} {{ .Render "summary"}} {{ end }}
+  </div>
+  <a
+    target="_blank"
+    rel="external noopener"
+    href="https://github.com/public-awesome"
+    >Github</a
+  >
+  |
+  <a
+    target="_blank"
+    rel="external noopener"
+    href="https://twitter.com/stargazezone"
+    >Twitter</a
+  >
+  |
+  <a target="_blank" rel="external noopener" href="https://discord.gg/QeJWCrE"
+    >Discord</a
+  >
+  |
+  <a
+    target="_blank"
+    rel="external noopener"
+    href="https://medium.com/public-awesome"
+    >Medium</a
+  >
 </main>
 {{ end }}
