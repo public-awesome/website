@@ -22,7 +22,7 @@ sectionPagesMenu = "main" # Enable menu system for lazy bloggers
   noClasses = false # Suggested, used for custom syntax highlighting
 
 [params]
-  description = "Building Stakebird, a content curation DAO." # Suggested, controls default description meta
+  description = "Building Stargaze, an Interchain NFT market." # Suggested, controls default description meta
   author = "Shane Vitarana" # Optional, controls author name display on posts
   hide_author = false # Optional, set true to hide author name on posts
   disable_csp = false # Optional, set true to disable content security policy
