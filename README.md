@@ -2,13 +2,13 @@
 
 [Install hugo](https://gohugo.io/getting-started/installing):
 
-``` sh
+```sh
 brew install hugo
 ```
 
 Then launch the server:
 
-``` sh
+```sh
 hugo serve
 ```
 

@@ -9,9 +9,6 @@ draft = false
   date = "2021"
 +++
 
-
 Public Awesome is a team of developers that contribute to {{< external href="https://stargaze.zone" text="Stargaze" />}}, a public protocol for NFTs in the Cosmos ecosystem.
-
-Core Team: {{< external href="https://twitter.com/shan3v" text="@shan3v" />}} | {{< external href="https://twitter.com/JakeHartnell" text="@JakeHartnell" />}} | {{< external href="https://twitter.com/jhernandezb_" text="@jhernandezb_" />}}
 
 <br />
